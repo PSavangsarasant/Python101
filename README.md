@@ -12,3 +12,6 @@ EP.3 ลุงสอนการสมัครและใช้งาน Githu
      ทำความเข้าใจวิธีใช้ CSV 
           1.Record 
           2.Read
+               
+     แนะนำ Youtube "uncle engineer gui"
+     source code  github uncle engineer repositories "Yipun"
